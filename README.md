@@ -1,5 +1,5 @@
 bitwrk-common
 =============
 
-Common code for BitWrk projects.
+Code forked from different open source projects and used as dependencies for BitWrk.
 
